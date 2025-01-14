@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="200" src="https://yt3.googleusercontent.com/ytc/AIdro_l1mQOV0ggZ_UvodYMWrBA8G2QfsxskEFHNaUbgW9Bem8E=s900-c-k-c0x00ffffff-no-rj"  />
+<img align="right" height="110" src="https://yt3.googleusercontent.com/ytc/AIdro_l1mQOV0ggZ_UvodYMWrBA8G2QfsxskEFHNaUbgW9Bem8E=s900-c-k-c0x00ffffff-no-rj"  />
 
 ###
 
