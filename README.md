@@ -9,9 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Joao+Carlos+;I'm+27+years+old+;+I'm+studying+Data+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Joao+Carlos+;I'm+27+years+old+;+I'm+studying+Data+Science)](https://git.io/typing-svg)
 
-
-
-
 ###
 
 <div align="center">
@@ -27,8 +24,9 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
 </div>
 
+###
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000080&heigth=120&section=header"/>
 
 ###
 
@@ -66,5 +64,9 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JuCalis/JuCalis/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#000080&heigth=120&section=header"/>
 
 ###
