@@ -9,6 +9,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Joao+Carlos+;I'm+27+years+old+;+I'm+studying+Data+Science)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Joao+Carlos+;I'm+27+years+old+;+I'm+studying+Data+Science)](https://git.io/typing-svg)
 
+
+
+
 ###
 
 <div align="center">
@@ -23,6 +26,9 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="30" alt="telegram logo"  />
 </div>
+
+
+
 
 ###
 
