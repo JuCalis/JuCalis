@@ -34,10 +34,6 @@
 
 ###
 
-<img align="right" height="110" src="https://logospng.org/download/office-365/logo-office-365-1024.png"  />
-
-###
-
 <img align="right" height="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxoBLbMOvgVNjEWW3uLiVnizzgUbDooZluA&s"  />
 
 ###
@@ -51,14 +47,6 @@
 ###
 
 <img align="right" height="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Yh9wBOz_I22VSkYDSl0x3qh_PcD3RpU-QGZa6xKNzj2p38Sk5p9cW6EyGbHJxCvSvZc&usqp=CAU"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuCalis/JuCalis/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
