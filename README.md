@@ -9,8 +9,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuCalis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JuCalis&theme=gruvbox&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuCalis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&custom_title=JuCalis" height="200" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JuCalis&theme=gitdimmed&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -37,14 +37,15 @@
 
 <div align="left">
   <a href="https://www.instagram.com/joaocars/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="51" alt="instagram logo"  />
   </a>
   <a href="mailto:joaocarsjoao@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="51" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-oliveira-cruz-b8208b211/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="51" alt="linkedin logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="63" height="51" alt="telegram logo"  />
 </div>
 
 ###
