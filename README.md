@@ -8,33 +8,43 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuCalis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuCalis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JuCalis&theme=gruvbox&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<img align="right" height="160" src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-413.gif"  />
+<img align="right" height="200" src="https://yt3.googleusercontent.com/ytc/AIdro_l1mQOV0ggZ_UvodYMWrBA8G2QfsxskEFHNaUbgW9Bem8E=s900-c-k-c0x00ffffff-no-rj"  />
+
+###
+
+<img align="right" height="120" src="https://ih1.redbubble.net/image.2189776566.6167/raf,360x360,075,t,fafafa:ca443f4786.jpg"  />
+
+###
+
+<img align="right" height="120" src="https://logospng.org/download/office-365/logo-office-365-1024.png"  />
+
+###
+
+<img align="right" height="120" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg"  />
+
+###
+
+<img align="right" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZxoBLbMOvgVNjEWW3uLiVnizzgUbDooZluA&s"  />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/joaocars/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
+  </a>
+  <a href="mailto:joaocarsjoao@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-oliveira-cruz-b8208b211/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -44,11 +54,3 @@
 <img src="https://raw.githubusercontent.com/JuCalis/JuCalis/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img height="400" src="https://afubesp.org.br/wp-content/uploads/2022/07/logo_ebac.png"  />
-</div>
-
-###
-
-https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white
