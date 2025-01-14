@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuCalis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&custom_title=JuCalis" height="200" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=JuCalis&theme=gitdimmed&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=JuCalis&theme=gitdimmed&no-bg=true&no-frame=true" left="150" alt="trophy graph"  />
 </div>
 
 ###
