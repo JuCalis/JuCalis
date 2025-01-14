@@ -4,7 +4,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Joao+Carlos+;I'm+27+years+old+;+I'm+studying+Data+Science)](https://git.io/typing-svg)
 
 ###
 
